@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 Computer Engineering student with a strong foundation in backend development
-* 🌱 Currently learning **DSA (Python & Java)** and **System Design basics**
+* 🌱 Currently learning **DSA (C++ & Java)** and **System Design basics**
 * ⚙️ Experienced in **Spring Boot, REST APIs, and Microservices architecture**
 * 🚀 Passionate about building scalable, clean, and efficient backend systems
 * 💡 Continuously improving through hands-on projects and problem-solving
