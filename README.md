@@ -38,7 +38,7 @@
 
 ## 📫 Reach Me At
 
-📧 **[kaustubhpatil@email.com](mailto:kaustubhpatil@email.com)** *(replace with your actual email)*
+📧[kaustubhpatil8090@gmail.com](mailto:kaustubhpatil8090@gmail.com)
 
 ---
 
